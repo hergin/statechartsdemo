@@ -10,6 +10,7 @@ Statechart of Traffic Lights
 --
 
 The statechart of Traffic Lights designed in [Atom3 DCharts syntax], which is a statecharts clone, is below. Check the manually created statechart [in this file].
+
 <img src="https://raw.githubusercontent.com/hergin/statechartsdemo/master/Traffic%20Lights%20SC.PNG" width="400px">
 
 [in this file]:https://raw.githubusercontent.com/hergin/statechartsdemo/master/src/edu/ua/cs/hergin/android/statechartsdemo/MainActivity.java
